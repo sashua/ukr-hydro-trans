@@ -7,4 +7,4 @@
 
 Сайт-візитка для компанії "Укргідротрансбуд"
 
-🚀 [ugtb.kyiv.ua](https://ugtb.kyiv.ua/contacts)
+🚀 [ugtb.kyiv.ua](https://ugtb.kyiv.ua)
